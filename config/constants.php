@@ -1,0 +1,4 @@
+<?php
+return [
+    "GENUINE" => "GENUINE",
+];
